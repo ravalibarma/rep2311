@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
      <h1>Happy holi</h1>
+    <h1>akhila</h1>
     </div>
   );
 }
