@@ -8,7 +8,7 @@ function App() {
     <h1>akhila</h1>
     <h1>akhi<h1>
     <img src"https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?cs=srgb&dl=bloom-blooming-blossom-462118.jpg&fm=jpg">
-    </div>
+    </img> </div>
   );
 }
 
